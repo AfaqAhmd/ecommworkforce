@@ -84,17 +84,17 @@
 
   .banner-statistics{
     width: 50vw;
-    height: 10vw;
+    height: 9vw;
     margin: auto;
     border: 1px solid white;
     border-radius: 15px;
     display: flex;
-    justify-content: center;
     text-align: center;
   }
   .stats{
     margin: auto;
     text-align: center;
+    padding: 0 2rem;
   }
   .stats h2{
     color: white;
@@ -127,6 +127,12 @@
   }
 
   .cont-box{
+    width: 60%;
+  }
+
+  .cont-boxx{
+    text-align: center;
+    justify-content: center;
     width: 40%;
   }
   .cont-box h2{
