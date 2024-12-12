@@ -11,6 +11,9 @@
     display: none;
   }
 
+  .banner-heading{
+    margin: 20px 0;
+  }
   .banner-heading h1{
     color: white;
     font-size:1.5rem ;
