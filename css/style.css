@@ -83,8 +83,8 @@
   }
 
   .banner-statistics{
-    width: 50vw;
-    height: 9vw;
+    width: 60vw;
+    height: 10vw;
     margin: auto;
     border: 1px solid white;
     border-radius: 15px;
@@ -148,7 +148,7 @@
     color: #DF7A00;
   }
 
-  .cont-box img{
+  .cont-boxx img{
     width: 80%;
   }
 
