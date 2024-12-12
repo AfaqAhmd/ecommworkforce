@@ -34,11 +34,11 @@
   .stats{
     margin: auto;
     text-align: center;
-    padding: 10px 0;
+    padding: 6px 0;
   }
   .stats h2{
     color: white;
-    font-size: 2em;
+    font-size: 1.7em;
   }
   .content-section{
     width: 90vw;
