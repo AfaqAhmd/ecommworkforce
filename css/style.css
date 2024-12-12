@@ -151,31 +151,12 @@
 
   .services{
     width: 100%;
-    /* background-color: black; */
   }
   .services img{
     width: 100%;
     object-fit: cover;
   }
-  .headerr{
-    margin:20vw 0;
-    width: 70%;
-    height: 80vh;
-    padding: 0 15vw;
-    background-color: black;
-    position: relative;
-    text-align: center;
-    border: 1.5px solid white;
-  }
-  .headerr h1 {
-    background-color: #ccc;
-    color: #000;
-    padding: 10px;
-    border-radius: 5px;
-    position: absolute;
-    top: -27px;
-    left: 33%;
-  }
+  
   
   .content {
     display: flex;
@@ -208,6 +189,8 @@
     margin: auto;
     padding: 0 15vw;
     background-color: black;
+    background-image: url('/images/Pattern.png');     /* Replace with your image URL */
+    background-repeat: repeat;
 
 
   }
