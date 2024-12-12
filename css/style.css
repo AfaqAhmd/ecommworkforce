@@ -197,8 +197,6 @@
     background-color: black;
     background-image: url('/images/Pattern.png');     /* Replace with your image URL */
     background-repeat: repeat;
-
-
   }
 
   .exp-header{
@@ -249,7 +247,7 @@
 /* Footer Styles */
 
 .footer {
-    background-color: rgb(250, 206, 157); /* Footer background color */
+    background-color: white; /* Footer background color */
     color: black;
     padding: 40px 20px;
     font-family: Arial, sans-serif;
@@ -298,9 +296,27 @@
     color: black;
     font-size: 14px;
   }
+
+  .footer-column a:hover {
+    color: #DF7A00;
+  }
   
   .footer-column ul li a:hover {
     text-decoration: underline;
+    color: #DF7A00;
+  }
+  
+  /* Social Icons */
+    .social-icons a {
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    font-size: 18px;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #DF7A00;
   }
   
   
