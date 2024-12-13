@@ -45,7 +45,7 @@
   }
   .mobile-header nav {
     border-radius: 0; /* Remove any border radius */
-    width: 100vw;
+    /* width: 100vw; */
   }
 
  
