@@ -89,11 +89,11 @@
   .content-main{
     display: flex;
     flex-direction: column;
-    width: 100vw;
+    /* width: 100vw; */
   }
 
   .cont-box{
-    width: 90%;
+    width: 100%;
   }
 
   .cont-boxx{
